@@ -43,9 +43,6 @@ Esta obra toma inspiración de la obra “random polygon” de Frieder Nake, de 
 
 
 
-
-
-
 **Bibliografía**
 
 Burguer, Peter. (1999). _"Nuevos Medios"_ en AAVV. Arte de siglo XX. Vol. II. München: Taschen.
