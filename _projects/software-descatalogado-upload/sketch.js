@@ -16,7 +16,7 @@ function setup() {
   canvas.parent('div-sketch');
   colorMode(HSB, 360, 100, 100);
   angleMode(DEGREES);
-  console.log(mouseX, mouseY);
+  
 }
 
 function draw() {
